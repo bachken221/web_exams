@@ -129,7 +129,7 @@ quiz-web-app/
 ## 3. LỘ TRÌNH THỰC HIỆN DỰ ÁN (6 GIAI ĐOẠN)
 
 ### Giai đoạn 1: Khởi tạo Database & Khung Dự Án
-- [x] Viết `database.sql` tạo 5 bảng với đầy đủ khóa ngoại và thêm dữ liệu mẫu (1 Admin, 2 Giảng viên, 3 Sinh viên, 3 Môn học, 3 Đề thi hoàn chỉnh).
+- [x] Viết `database.sql` tạo 5 bảng với đầy đủ khóa ngoại và thêm dữ liệu mẫu phong phú phục vụ thuyết trình (15 Người dùng: 1 Admin, 4 Giảng viên, 10 Sinh viên; 6 Học phần CNTT; 8 Đề thi với 98 câu hỏi trắc nghiệm từ 10-15 câu/đề có đầy đủ giải thích học thuật; 28 lượt lịch sử làm bài đa dạng phổ điểm).
 - [x] Khởi tạo `server` (Express + TypeScript) và `client` (React + Vite + TypeScript + Tailwind CSS).
 - [x] Cấu hình kết nối MySQL Pool và kiểm tra API health-check.
 
